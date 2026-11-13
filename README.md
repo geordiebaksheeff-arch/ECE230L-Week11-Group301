@@ -13,7 +13,11 @@ In this lab, we learned how to make clock dividers from two types of counters.
 
 ## Names
 
+Geordie Baksheeff
+
 ## Summary
+
+Learning how to implement modulo counters and how to use T FlipFlops to divide clock signals
 
 ## Lab Questions
 
